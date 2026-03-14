@@ -29,7 +29,7 @@ export function Hero() {
             <Button
               asChild
               size="lg"
-              className="w-full sm:w-auto cursor-pointer text-base"
+              className="w-full h-full cursor-pointer text-base"
             >
               <a href="#aplikuj">Aplikuj teraz</a>
             </Button>
